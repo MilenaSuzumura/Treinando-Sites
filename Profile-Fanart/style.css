@@ -7,25 +7,17 @@
     border-radius: 50%;
     border-style: solid;
     border-color: rgb(66, 66, 66);
-    margin-left:50%;
+    margin-left: 45%;
     margin-top: -5%;
 }
 
 .img-perfil-fundo{
     height: 400px;
-    width: 500px;
+    background-image: url(https://www.animeunited.com.br/oomtumtu/2020/10/Majo-no-Tabitabi-sub-Indonesia.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     border-color: rgb(66, 66, 66);
     border-style: solid;
-}
-
-.img-fundo{
-    
-}
-
-.img-fundo{
-    
+    border-top: 5px;
 }
 
 .perfil p, h2{
