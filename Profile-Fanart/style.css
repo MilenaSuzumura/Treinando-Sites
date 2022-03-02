@@ -1,0 +1,33 @@
+.perfil{
+    margin: 5px;
+}
+
+.img-perfil{
+    border: 5px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(66, 66, 66);
+    margin-left:50%;
+    margin-top: -5%;
+}
+
+.img-perfil-fundo{
+    height: 400px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-color: rgb(66, 66, 66);
+    border-style: solid;
+}
+
+.img-fundo{
+    
+}
+
+.img-fundo{
+    
+}
+
+.perfil p, h2{
+    margin-left: 50%;
+}
