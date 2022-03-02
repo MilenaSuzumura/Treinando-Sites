@@ -26,3 +26,15 @@
 .img-fundo, .img-perfil{
     box-shadow: -0px 2px 5px black;
 }
+
+.outrasPartes{
+    margin: 10px;
+}
+
+.suasArtes, .favoritos{
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(233, 233, 233);
+    padding: 10px;
+    padding-bottom: 200px;
+}
